@@ -19,5 +19,5 @@ This is a test for api platfrom for todo lists fuctionalities
 - 'yarn serve'
 - open the link generated from yarn command
 
-## Video for how to runn the application
+## Video for how to run the application
 - video https://www.loom.com/share/63c71cceaa4d490ebdc659f949afcf32

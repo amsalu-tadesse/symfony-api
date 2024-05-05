@@ -12,7 +12,6 @@ This is a test for api platfrom for todo lists fuctionalities
 - cd symfony-api
 - update .env according to your database credentials
 - composer install
-- create database 'symfony-api' in your local machine.
 - run 'bin/console doctrine:database:create' to create database
 - open terminal and run 'symfony server:start -d'
 - 'cd todo-list-client' to go to frontend application
